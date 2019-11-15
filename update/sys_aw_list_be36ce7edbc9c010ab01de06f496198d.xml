@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Records">be36ce7edbc9c010ab01de06f496198a</category>
+        <columns>field_1,field_2,field_3,number,sys_class_name,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on</columns>
+        <condition/>
+        <groups/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 02:51:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be36ce7edbc9c010ab01de06f496198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="learnCAD" source="x_snc_learncad">a5550a3edbc9c010ab01de06f4961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="learnCAD">a5550a3edbc9c010ab01de06f4961935</sys_scope>
+        <sys_update_name>sys_aw_list_be36ce7edbc9c010ab01de06f496198d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 02:51:00</sys_updated_on>
+        <table>x_snc_learncad_records</table>
+        <title>All</title>
+        <workspace display_value="learnCAD">5e360e7edbc9c010ab01de06f49619d0</workspace>
+    </sys_aw_list>
+</record_update>

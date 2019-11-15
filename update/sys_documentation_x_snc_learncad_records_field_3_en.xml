@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="field_3" label="Field 3" language="en" table="x_snc_learncad_records">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>field_3</element>
+            <help/>
+            <hint/>
+            <label>Field 3</label>
+            <language>en</language>
+            <name>x_snc_learncad_records</name>
+            <plural>Field 3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-15 02:49:45</sys_created_on>
+            <sys_id>24f58a7edbc9c010ab01de06f4961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Field 3</sys_name>
+            <sys_package display_value="learnCAD" source="x_snc_learncad">a5550a3edbc9c010ab01de06f4961935</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="learnCAD">a5550a3edbc9c010ab01de06f4961935</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_learncad_records_field_3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-15 02:49:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

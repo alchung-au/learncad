@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Records)">de56c2bedbc9c010ab01de06f49619fc</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Records)</name>
+        <order/>
+        <parent>1e56c2bedbc9c010ab01de06f49619e5</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 02:51:31</sys_created_on>
+        <sys_id>1a5606bedbc9c010ab01de06f4961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Records)</sys_name>
+        <sys_package display_value="learnCAD" source="x_snc_learncad">a5550a3edbc9c010ab01de06f4961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="learnCAD">a5550a3edbc9c010ab01de06f4961935</sys_scope>
+        <sys_update_name>sys_sg_button_instance_1a5606bedbc9c010ab01de06f4961900</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 02:51:31</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=1a5606bedbc9c010ab01de06f4961900"/>
+</record_update>

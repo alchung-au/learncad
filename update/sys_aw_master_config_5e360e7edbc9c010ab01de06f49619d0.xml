@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="learnCAD">56360e7edbc9c010ab01de06f49619d1</compiled_page_registry>
+        <description>records</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="learnCAD Search Context Config">de360e7edbc9c010ab01de06f49619ce</global_search_data>
+        <name>learnCAD</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-15 02:50:58</sys_created_on>
+        <sys_id>5e360e7edbc9c010ab01de06f49619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>learnCAD</sys_name>
+        <sys_package display_value="learnCAD" source="x_snc_learncad">a5550a3edbc9c010ab01de06f4961935</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="learnCAD">a5550a3edbc9c010ab01de06f4961935</sys_scope>
+        <sys_update_name>sys_aw_master_config_5e360e7edbc9c010ab01de06f49619d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-15 02:50:58</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_url>learncad</workspace_url>
+    </sys_aw_master_config>
+</record_update>

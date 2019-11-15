@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Records" max_length="40" name="x_snc_learncad_records" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Field 1" max_length="40" name="field_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Field 2" max_length="40" name="field_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Field 3" max_length="40" name="field_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
